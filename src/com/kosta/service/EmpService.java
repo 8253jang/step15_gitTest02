@@ -11,4 +11,8 @@ public class EmpService {
 	public void please() {
 		System.out.println("Á¦¹ß¿ä");
 	}
+	
+	public void dtd() {
+		System.out.println("ffff");
+	}
 }
