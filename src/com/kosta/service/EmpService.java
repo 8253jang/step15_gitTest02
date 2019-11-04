@@ -8,4 +8,7 @@ public class EmpService {
 	public void update() {
 		System.out.println("수정");
 	}
+	public void please() {
+		System.out.println("제발요");
+	}
 }
