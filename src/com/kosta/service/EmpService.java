@@ -8,5 +8,12 @@ public class EmpService {
 	public void update() {
 		System.out.println("수정");
 	}
+
+	public void please() {
+		System.out.println("제발요");
+	}
 	
+	public void dtd() {
+		System.out.println("ffff");
+	}
 }
