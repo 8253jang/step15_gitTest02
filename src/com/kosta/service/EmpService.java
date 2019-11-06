@@ -8,4 +8,5 @@ public class EmpService {
 	public void update() {
 		System.out.println("¼öÁ¤");
 	}
+	
 }
